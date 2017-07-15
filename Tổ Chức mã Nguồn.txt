@@ -1,16 +1,16 @@
-T? ch?c m� ngu?n
+Tổ chức mã nguồn
 
-�u?c x�y d?ng tr�n n?n t?ng WordPress l� m?t n?n t?ng ?ng d?ng web m� ngu?n m? du?c vi?t b?ng ng�n ng?  PHP.  n� gi�p cho vi?c thi?t k?, x? l� v� b?o tr� m� ngu?n d? d�ng, d?ng th?i tang kh? nang m? r?ng c?a ph?n m?m.
+Ðược xây dựng trên nền tảng WordPress là một nền tảng ứng dụng web mã nguồn mở được viết bằng ngôn ngữ  PHP.  nó giúp cho việc thiết kế, xử lý và bảo trì mã nguồn dễ dàng, đồng thời tăng khả năng mở rộng của phần mềm.
 
-T?p tin index.php du?c xem nhu d?u v�o, ti?p nh?n c�c y�u c?u t? ph�a client v�  chuy?n c�c y�u c?u n�y cho h? th?ng x? l�.
+Tập tin index.php được xem như đầu vào, tiếp nhận các yêu cầu từ phía client và  chuyên các yêu cầu này cho hệ thống xử lý.
 
-+ Thu M?c : wp-admin: thu m?c luu tr? trang qu?n tr? 
-+ Thu m?c : wp-content: ��y l� noi luu tr? t?t c? c�c th�nh ph?n m� ngu?i d�ng c� th? t�y bi?n, ch?ng h?n nhu themes, plugins v� c? c�c t?p tin du?c upload th�ng qua WordPress
-+ Thu m?c : wp-includes l� noi ch?a to�n b? c�c m� ngu?n
-+ Trong Thu M?c wp-content : 
-  -  ch?a thu m?c themes (ch?a c�c giao di?n du?c h? tr? s?n c?a wordpress )
-  -  ch?a thu m?c plugins (ch?a t?t c? c�c plugin khi up l�n v�o wordpress)
-+ Thu M?c : wp-config: Ch?a c�c t?p tin c?u h�nh h? th?ng
-+ Thu M?c : wp-login : dang nh?p qu?n tr?
-+ Thu m?c 404: ch?a c�c t?p tin l?i
++ Thư Mục : wp-admin: thư mục lưu trữ trang quản trị 
++ Thư Mục : wp-content: Ðây là nơi lưu trữ tất cả các thành phần mà nguời dùng có thể tùy biến, chẳng hạn như themes, plugins và  các tập tin được upload thông qua WordPress
++ Thư mục : wp-includes là nơi chứa toàn bộ các mã nguồn
++ Trong Thư Mục wp-content : 
+  -  chứa thu mục themes (chứa các giao diện được hỗ trợ  của wordpress )
+  -  chứa thu mục plugins (chứa tất cả các plugin khi up lên vào wordpress)
++ Thư Mục : wp-config: Chứa các tập tin cấu hình hệ thống
++ Thư Mục : wp-login : đăng nhập quản trị 
++ Thư Mục 404: chứa các tập tin lỗi 
 
