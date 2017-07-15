@@ -1,0 +1,16 @@
+T? ch?c mã ngu?n
+
+Ðu?c xây d?ng trên n?n t?ng WordPress là m?t n?n t?ng ?ng d?ng web mã ngu?n m? du?c vi?t b?ng ngôn ng?  PHP.  nó giúp cho vi?c thi?t k?, x? lý và b?o trì mã ngu?n d? dàng, d?ng th?i tang kh? nang m? r?ng c?a ph?n m?m.
+
+T?p tin index.php du?c xem nhu d?u vào, ti?p nh?n các yêu c?u t? phía client và  chuy?n các yêu c?u này cho h? th?ng x? lý.
+
++ Thu M?c : wp-admin: thu m?c luu tr? trang qu?n tr? 
++ Thu m?c : wp-content: Ðây là noi luu tr? t?t c? các thành ph?n mà ngu?i dùng có th? tùy bi?n, ch?ng h?n nhu themes, plugins và c? các t?p tin du?c upload thông qua WordPress
++ Thu m?c : wp-includes là noi ch?a toàn b? các mã ngu?n
++ Trong Thu M?c wp-content : 
+  -  ch?a thu m?c themes (ch?a các giao di?n du?c h? tr? s?n c?a wordpress )
+  -  ch?a thu m?c plugins (ch?a t?t c? các plugin khi up lên vào wordpress)
++ Thu M?c : wp-config: Ch?a các t?p tin c?u hình h? th?ng
++ Thu M?c : wp-login : dang nh?p qu?n tr?
++ Thu m?c 404: ch?a các t?p tin l?i
+
