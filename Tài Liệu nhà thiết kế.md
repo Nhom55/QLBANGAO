@@ -1,4 +1,4 @@
-﻿<p><H1>Phát Tài Liệu Nhà Thiết Kế</H1></p>
+﻿<p><H1>Tài Liệu Nhà Thiết Kế</H1></p>
 <p>Bước 1. Tải mã nguồn từ website WordPress.org
 Trước tiên bạn hãy tải phiên bản mới nhất của mã nguồn WordPress tại địa chỉ https://wordpress.org/
 </p>
