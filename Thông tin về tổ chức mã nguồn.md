@@ -17,4 +17,4 @@ Tập tin index.php được xem nhu dầu vào, tiếp nhận các yêu cầu t
 + Thu Mục : wp-config: Chứa các tập tin cấu hình hệ thống
 + Thu Mục : wp-login : dang nhập quản trị 
 + Thu mục 404: chứa các tập tin lại
-<img src=" https://scontent.fdad3-2.fna.fbcdn.net/v/t34.0-12/20136707_667127373491904_763911066_n.png?oh=d5c6a576f4b658ad13d7965758603f20&oe=596D464D" >
+<p><img src=" https://scontent.fdad3-2.fna.fbcdn.net/v/t34.0-12/20136707_667127373491904_763911066_n.png?oh=d5c6a576f4b658ad13d7965758603f20&oe=596D464D" ></p>
