@@ -9,7 +9,7 @@ Màn hình hiển thị trang đăng nhập:
 
 2.	Cách thay đổi mật khẩu quản trị: 
 Vào thành viên -> Hồ sơ của bạn -> trong quản lý tài khoản -> tạo mật khẩu mới -> cập nhật hồ sơ
-<p>< img src=" https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20067908_667078386830136_736025630_n.png?oh=9a2c992244ee4177df94ee74df5ba1a1&oe=596C3D8C " ></p>
+<p> <img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20067908_667078386830136_736025630_n.png?oh=9a2c992244ee4177df94ee74df5ba1a1&oe=596C3D8C">
 
 II.Thay đổi nội dung
 Thêm, sửa sản phẩm:
