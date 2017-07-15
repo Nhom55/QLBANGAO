@@ -3,21 +3,21 @@ Dùng lệnh `clone` để lấy respo về máy :		 +Dùng lệnh `clone` để
  +
  +     $ git clone https://github.com/nhomubuntu/baitoan.git
  +
- +Sau khi thực hiện lệnh này, một directory tên là **nhomubuntu** xuất hiện trên máy của bạn. Vị trí lưu directory này tại nơi bạn thực hiện lệnh.
+ +Sau khi thực hiện lệnh này, một directory tên là **nhom55** xuất hiện trên máy của bạn. Vị trí lưu directory này tại nơi bạn thực hiện lệnh.
  +
- +Bên trong thư mục **nhomubuntu** sẽ có:
+ +Bên trong thư mục **nhom55** sẽ có:
  +* 1 file **README.md**
  +Có thể coi là file giới thiệu, chúng ta có thể sửa bằng bất kỳ trình soạn thảo nào. 
  +* 1 dir **.git** (bị ẩn) chứa cấu hình Git.
- +Chúng ta có thể thêm các file khác vào thư mục **nhomubuntu** này để đưa lên Github.
+ +Chúng ta có thể thêm các file khác vào thư mục **nhom55** này để đưa lên Github.
  +
  +
  +#### Add, Commit, Push - Đưa file lên Github  
- +#####Lưu ý là những thao tác tiếp theo phải thực hiện trong thư mục **nhomubuntu**
- +Giả sử, bạn tạo một file **hello_git.cpp** trong thư mục **nhomubuntu**.
+ +#####Lưu ý là những thao tác tiếp theo phải thực hiện trong thư mục **nhom55**
+ +Giả sử, bạn tạo một file **** Đónggóp.cmd trong thư mục **nhom55**.
  +Để thực hiện `add` ta dùng lệnh:
  +
- +    $ git add hello_git.cpp
+ +    $ git add Đónggóp.cmd
  +
  +Nếu có nhiều file và bạn muốn `add` hết tất cả các file đó:
  +
@@ -25,7 +25,7 @@ Dùng lệnh `clone` để lấy respo về máy :		 +Dùng lệnh `clone` để
  +
  +Để `commit` ta dùng lệnh:
  +
- +    $ git commit -m "Them file hello_git.cpp"
+ +    $ git commit -m "Them file  Đónggóp.cmd"
  +   
  +Để `push` lên Github ta dùng lệnh:
  +
@@ -42,8 +42,8 @@ Dùng lệnh `clone` để lấy respo về máy :		 +Dùng lệnh `clone` để
  +
  +
  +######DONE
- +Bạn load lại trang **nhomubuntu** trên Github, file **hello_git.cpp** mà xuất hiện thì bạn đã thành công.
- +<img src="http://i.imgur.com/TAjssLZ.png">
+ +Bạn load lại trang ** Đónggóp.cmd** trên Github, file **.md** mà xuất hiện thì bạn đã thành công.
+ +<img src="https://scontent.fsgn2-1.fna.fbcdn.net/v/t35.0-12/20107997_787862281384743_88448498_o.png?oh=92a80a8427d77ee11c7742de5e57c36d&oe=596C61EA">
  +
  +
  +######Nếu bạn đang có một thư mục trong máy (giả sử tên là playground), bạn muốn đẩy nó lên một repo mới
@@ -69,7 +69,7 @@ Dùng lệnh `clone` để lấy respo về máy :		 +Dùng lệnh `clone` để
  +    $ git push origin master 
  +
  +#### Pull - Lấy file về máy
- +Giả sử, trong cái **nhomubuntu** có sự thay đổi như thêm file hay file nào đó được sửa nhưng ở máy của bạn chưa cập nhật điều này
+ +Giả sử, trong cái **nhom55** có sự thay đổi như thêm file hay file nào đó được sửa nhưng ở máy của bạn chưa cập nhật điều này
  +Bạn cần `pull` về máy:
  +
  +    $ git pull
