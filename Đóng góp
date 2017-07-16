@@ -1,7 +1,7 @@
 img src="http://i.imgur.com/PyjB9l6.png">		  <img src="http://i.imgur.com/PyjB9l6.png">		
  -Dùng lệnh `clone` để lấy respo về máy :		 +Dùng lệnh `clone` để lấy repo về máy: 		
  - +		
- - +     $ git clone https://github.com/nhomubuntu/baitoan.git		
+ - +     $ git clone https://github.com/Nhom55/QLBANGAO.git		
  - +		
  - +Sau khi thực hiện lệnh này, một directory tên là **nhom55** xuất hiện trên máy của bạn. Vị trí lưu directory này tại nơi bạn thực hiện lệnh.		
  - +		
@@ -29,7 +29,7 @@ img src="http://i.imgur.com/PyjB9l6.png">		  <img src="http://i.imgur.com/PyjB9l
  - +   		
  - +Để `push` lên Github ta dùng lệnh:		
  - +		
- - +    $ git push		
+ - +    $ git push	origin master	
  - +		
  - +Bạn sẽ được hỏi username và password khi bạn đăng nhập Github.		
  - +		
