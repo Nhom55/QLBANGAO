@@ -1,4 +1,4 @@
-ác phần văn bản có nguồn gốc từ Quy tắc ứng xử Django (https://www.djangoproject.com/conduct/) và [Chính sách chống sách nhiễu của nữ quyền về nữ quyền]
+Các phần văn bản có nguồn gốc từ Quy tắc ứng xử Django (https://www.djangoproject.com/conduct/) và [Chính sách chống sách nhiễu của nữ quyền về nữ quyền]
 (http://geekfeminism.wikia.com/wiki/Conference_anti -chỗ trợ / Chính sách).		  
 Các phần văn bản có nguồn gốc từ Quy tắc ứng xử Django (https://www.djangoproject.com/conduct/) và [Chính sách chống sách nhiễu của nữ quyền về nữ quyền] 
 (http://geekfeminism.wikia.com/wiki/Conference_anti -chỗ trợ / Chính sách).
