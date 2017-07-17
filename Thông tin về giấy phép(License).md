@@ -2,7 +2,7 @@ Dự án mã nguồn mở
 Wordpress là một hệ thống xuất bảng blog bằng ngôn ngữ lập trình PHP và sử dụng MySQL database..
 Sử dụng giấy phép Tài liệu tự do GNU
 
-Nhà phát hành:GNU(GNU Genera; Public License) là giấy phép phần mềm tự do phổ biến nhất
+Nhà phát hành:GNU(GNU General Public License) là giấy phép phần mềm tự do phổ biến nhất
 
 Quyền lợi: được sao chép và phân phối chương trình, quyền được yêu cầu trả phí cho việc phân phối đó
 quyền được thay đổi chương trình để sử dụng cho mục đích cá nhân.
