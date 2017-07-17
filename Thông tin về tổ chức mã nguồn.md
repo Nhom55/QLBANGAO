@@ -8,9 +8,9 @@ giúp tách biệt các tập tin giao diện với các tâp tin xử lý dữ 
 
 Tập tin index.php được xem nhu dầu vào, tiếp nhận các yêu cầu từ phía client và chuyển các yêu cầu này cho hệ thống xử lý.
 
-+ Thu Mục : wp-admin: thu mục luu trữ với trang quản trị 
-+ Thu mục : wp-content: Ðây là noi luu trữ tất cả các thành phần mà người dùng có thể tùy biến, chẳng hạn nhu themes, plugins và cả các tập tin đượcc upload thông qua WordPress
-+ Thu mục : wp-includes là noi ch?a toàn bộ các mã ngu?n
++ Thu Mục : wp-admin: thu mục lưu trữ với trang quản trị 
++ Thu mục : wp-content: Ðây là nơi lưu trữ tất cả các thành phần mà người dùng có thể tùy biến, chẳng hạn nhu themes, plugins và cả các tập tin đượcc upload thông qua WordPress
++ Thu mục : wp-includes là noi chứa toàn bộ các mã nguồn
 + Trong Thu mục wp-content : 
   -  chia thư mục themes (chứa các giao diện )
   -  chia thư mục plugins (chứa tất cả các plugin khi up lên  wordpress)
